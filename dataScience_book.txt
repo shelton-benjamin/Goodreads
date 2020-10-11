@@ -1,0 +1,21 @@
+Title
+Data Science for Business: What you need to know about data mining and data-analytic thinking
+Data Smart: Using Data Science to Transform Information into Insight
+Data Science from Scratch: First Principles with Python
+Doing Data Science
+"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data"
+Numsense! Data Science for the Layman: No Math Added
+Python Data Science Handbook: Tools and Techniques for Developers
+What Is Data Science?
+Data Science
+The Art of Data Science: A Guide for Anyone Who Works with Data
+Building Data Science Teams
+Data Science for Executives: Leveraging Machine Intelligence to Drive Business ROI
+"Computer Age Statistical Inference: Algorithms, Evidence, and Data Science"
+Data Science For Dummies
+Practical Data Science with R
+Ethics and Data Science
+R Programming for Data Science
+"Humanizing Big Data: Marketing at the Meeting of Data, Social Science & Consumer Insight"
+Practical Data Science Cookbook
+The Data Science Handbook
